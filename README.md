@@ -1,3 +1,7 @@
 # FitnessApplication
-Design the **user interface (UI)** for a fitness application's home page, including elements like card views, a bottom navigation bar, and several activities for achieving fitness.
-You can display your creativity.
+A basic fitness tracker application with statistics and nutritive suggestions.
+
+### How To Run This Application  
+
+Clone this repository  
+Then open this project to your android studio by using import project option.  
